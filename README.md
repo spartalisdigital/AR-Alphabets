@@ -11,7 +11,7 @@ Augmented Reality on Web for Kids to learn Alphabets with fun.
 * Rotate 3D model
 * Zoom in / out
 * Speaks the alphabet letter with word
-* works offline (PWA Support)
+* works offline (PWA Support) - https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa?hl=pt-br
 
 ## Getting Started
 
